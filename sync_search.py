@@ -12,3 +12,4 @@ def sync_search():
 
 if __name__ == "__main__":
     sync_search()
+
